@@ -1,0 +1,22 @@
+.speech {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+}
+.direction {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: black;
+    background-color: aquamarine;
+}
+.direction :hover {
+    color: blue;
+    background-color: aqua;
+}
+.POPOVA {
+    color: blueviolet;
+}
+.LUKA {
+     color: blueviolet;
+}
+
