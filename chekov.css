@@ -31,4 +31,10 @@ th,td{
     text-align: center;
     padding: 2px;
 }
+.LUKA:hover {
+    text-shadow: 2px 2px rgb(152, 174, 152);
+}
+.POPOVA:hover {
+    text-shadow: 2px 2px greenyellow;
+}
 
