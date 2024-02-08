@@ -19,4 +19,16 @@
 .LUKA {
      color: blueviolet;
 }
+table{
+    border: 2px solid black;
+    text-align: center;
+    padding: 2px;
+    color: cornflowerblue;
+}
+th,td{
+    margin: 2px;
+    border: 2px solid black;
+    text-align: center;
+    padding: 2px;
+}
 
